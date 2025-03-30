@@ -40,9 +40,11 @@ Um simples e divertido jogo de adivinhar palavras feito com **React + TypeScript
 ---
 
 ## 📥 Venha Jogar!!!
+[Acesse o jogo](https://luanhts.github.io/Jogo-Adivinha/)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f23cb40f-0240-42d8-9189-a83cec705cdc" alt="Rocketseat Badge" />
 </p>
 
-Feito com ajuda da RocketSeat [Rocketseat](https://github.com/Rocketseat)
+Feito com ajuda da [Rocketseat](https://github.com/Rocketseat)
 
