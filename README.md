@@ -42,25 +42,6 @@ Um simples e divertido jogo de adivinhar palavras feito com **React + TypeScript
 ## 📥 Venha Jogar!!!
 ![image](https://github.com/user-attachments/assets/f23cb40f-0240-42d8-9189-a83cec705cdc)
 
----
-## 📂 Estrutura do projeto
-
-css
-Copiar
-Editar
-src
-├── components
-│   ├── Game.tsx
-│   └── LetterInput.tsx
-├── hooks
-│   └── useGame.ts
-├── data
-│   └── words.ts
-├── App.tsx
-├── main.tsx
-└── styles
-    └── App.css
----
 
 Feito com ajuda da RocketSeat [Rocketseat](https://github.com/Rocketseat)
 
